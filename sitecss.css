@@ -1,0 +1,48 @@
+body {
+    background-color: grey;
+}
+
+.header  {
+    color: white;
+     float: left;
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 8px;
+    margin : 3px 5px 3px 5px;
+    text-decoration: none;
+    }
+
+li {
+    display: block;
+    padding: 8px;
+    background-color: gold;
+    border: 1px solid black;
+    border-radius: 10px;
+        
+    }
+
+.columncontent {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.footer {
+    float : right;
+}
